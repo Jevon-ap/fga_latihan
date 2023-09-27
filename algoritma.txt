@@ -1,0 +1,6 @@
+1.mulai
+2.deklarasi nilai jari-jari dan phi -nya
+3.masukkan nilai r nya ke dalam rumus
+4.hitung nilai kelilingnya
+5.tampilkan hasilnya
+6.selesai

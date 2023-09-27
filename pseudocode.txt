@@ -1,0 +1,6 @@
+Mulai
+    deklarasi r , phi = 3,14
+    input r
+    keliling = 2 * phi * r
+    output keliling
+Selesai
